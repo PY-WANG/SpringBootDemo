@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.smart</groupId>
-  <artifactId>chapter3</artifactId>
+  <artifactId>SpringBootDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
